@@ -46,6 +46,7 @@ I'm Claire, and I'm currently a freshman at Miami University majoring in Compute
 - Data Abstraction and Data Structures
 - Electric Circuit Analysis
 - Digital System Designs
+<br>
 
 ## 🔗 How to Reach Me
 - 📧 Email - hopfencg@miamioh.edu
