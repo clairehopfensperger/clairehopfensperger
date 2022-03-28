@@ -5,7 +5,7 @@ I'm Claire, and I'm currently a freshman at Miami University majoring in Compute
 <br>
 
 ## 👾 My Projects
-##### 2021
+#### 2021
 - [Snake Game **(🟠 Javascript)**](https://github.com/clairehopfensperger/SnakeGame)
 <br>
 
