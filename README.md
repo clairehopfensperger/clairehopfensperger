@@ -13,7 +13,7 @@ I'm Claire, and I'm currently a freshman at Miami University majoring in Compute
 <details>
   <summary>Fundamentals of Programming (🔴 Java)</summary>
   
-- Freshman Year Fall Semester, Fall 2021
+- Freshman Year Fall Semester, 2021
 - Learned the fundamentals of Java programming
 - Practiced problem solving with Java
 </details>
@@ -23,22 +23,25 @@ I'm Claire, and I'm currently a freshman at Miami University majoring in Compute
 <details>
   <summary>Object-Oriented Programming (🔴 Java)</summary>
   
-- Freshman Year Spring Semester, Spring 2022
+- Freshman Year Spring Semester, 2022
 - Learned the four key principles of Object-Oriented Programming: Encapsulation, Abstraction, Inheritance, and Polymorphism
 - Focused more on learning more functionality of Java than problem solving
 - Practiced making classes, understanding UML notation, inplementing inheritance and polymorphism
 - Introduced testing code and getting coverage with JUnit
 - Introduced GUIs
+- Learned the concept of recursion and practiced coding it
 </details>
 <details>
   <summary>Intro to Electrical and Computer Engineering (🔵 C, 🟢 HTML, 🟣 CSS)</summary>
   
-- Freshman Year Spring Semester, Spring 2022
+- Freshman Year Spring Semester, 2022
 - Introduced and practiced navigating Linux terminal and directories and editing filing within terminal
 - Practiced coding with C
 - Created simple webpages with HTML and CSS
 - Built and coded Lego Mindstorm robots to battle using NXC in Bricx Command Center
 - Practiced different applications of Microsoft Excel
+- Experiemented with Arduino Uno boards and coded on the Arduino IDE
+- Worked with MatLab
 </details>
 <br>
 
