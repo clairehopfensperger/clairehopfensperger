@@ -5,10 +5,10 @@ I'm Claire, and I'm currently a freshman at Miami University majoring in Compute
 <br>
 
 ## 👾 My Projects
-#### 2021
-- [Snake Game **(🟠 Javascript)**](https://github.com/clairehopfensperger/SnakeGame)
 #### 2022
 - [Game Room **(🔴 Java)**](https://github.com/clairehopfensperger/GameRoom)
+#### 2021
+- [Snake Game **(🟠 Javascript)**](https://github.com/clairehopfensperger/SnakeGame)
 <br>
 
 ## 📓 Courses I've Taken
