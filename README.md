@@ -19,9 +19,6 @@ I'm Claire, and I'm currently a freshman at Miami University majoring in Compute
 - Learned the fundamentals of Java programming
 - Practiced problem solving with Java
 </details>
-<br>
-
-## ✏️ Courses I'm Currently Taking
 <details>
   <summary>Object-Oriented Programming (🔴 Java)</summary>
   
@@ -45,6 +42,10 @@ I'm Claire, and I'm currently a freshman at Miami University majoring in Compute
 - Experiemented with Arduino Uno boards and coded on the Arduino IDE
 - Worked with MatLab
 </details>
+<br>
+
+## ✏️ Courses I'm Currently Taking
+- Biology I with Lab (it's summer and I want to get this gen ed class over with lol)
 <br>
 
 ## 📚 Courses I'm Taking Next Semester
