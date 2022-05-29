@@ -34,7 +34,7 @@ I'm Claire, and I'm currently a freshman at Miami University majoring in Compute
   <summary>Intro to Electrical and Computer Engineering (🔵 C, 🟢 HTML, 🟣 CSS)</summary>
   
 - Freshman Year Spring Semester, 2022
-- Introduced and practiced navigating Linux terminal and directories and editing filing within terminal
+- Introduced and practiced navigating Linux terminal and directories and editing files within terminal
 - Practiced coding with C
 - Created simple webpages with HTML and CSS
 - Built and coded Lego Mindstorm robots to battle using NXC in Bricx Command Center
