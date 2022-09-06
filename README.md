@@ -1,7 +1,7 @@
 <h1 align = "center">Welcome to my GitHub!</h1>
 
 ## 🌼 About Me
-I'm Claire, and I just finished my freshman year at Miami University majoring in Computer Engineering with a minor in Computer Science. I'm from Brentwood, TN, but I was born in Green Bay, WI, so I always say I went north for college because I missed the cold. May I say, I definitely experience the cold at school and it is nothing like I was used to in Brentwood. I didn't start coding until my senior year of high school when I took AP Computer Science Principles because I heard it was an easy class to get good credit in and I had space in my schedule. Little did I know that I would have so much passion for coding and eventually study it in college! I learned and became sufficient with Javascript during my first year of coding, but since then I have learned and practiced with many different coding lagunages, such as Java, C, HTML, and more. Alongside coding, I also really enjoy physics and the hardware side of technology. I was the stage manager for my high school theatre department all through high school, so I got my fill of technological experience there. I've always been pretty crafty, and I really liked my physics classes in high school, so I thought Computer Engineering was the perfect way to combine all of the different topics I enjoy. I'm very excited to take a multitude of relavent classes through [Miami University's College of Engineering and Computing](https://www.miamioh.edu/cec/) and expand my knowledge.
+I'm Claire, and I'm in my sophomore year at Miami University majoring in Computer Engineering with a minor in Computer Science. I'm from Brentwood, TN, but I was born in Green Bay, WI, so I always say I went north for college because I missed the cold. May I say, I definitely experience the cold at school and it is nothing like I was used to in Brentwood. I didn't start coding until my senior year of high school when I took AP Computer Science Principles because I heard it was an easy class to get good credit in and I had space in my schedule. Little did I know that I would have so much passion for coding and eventually study it in college! I learned and became sufficient with Javascript during my first year of coding, but since then I have learned and practiced with many different coding lagunages, such as Java, C, HTML, and more. Alongside coding, I also really enjoy physics and the hardware side of technology. I was the stage manager for my high school theatre department all through high school, so I got my fill of technological experience there. I've always been pretty crafty, and I really liked my physics classes in high school, so I thought Computer Engineering was the perfect way to combine all of the different topics I enjoy. I'm very excited to take a multitude of relavent classes through [Miami University's College of Engineering and Computing](https://www.miamioh.edu/cec/) and expand my knowledge.
 <br>
 
 ## 👾 My Projects
@@ -45,13 +45,16 @@ I'm Claire, and I just finished my freshman year at Miami University majoring in
 <br>
 
 ## ✏️ Courses I'm Currently Taking
-- Biology I with Lab (it's summer and I want to get this gen ed class over with lol)
-<br>
-
-## 📚 Courses I'm Taking Next Semester
 - Data Abstraction and Data Structures
 - Electric Circuit Analysis
 - Digital System Designs
+<br>
+
+## 📚 Courses I'm Taking Next Semester
+- Computer Organization
+- Systems I
+- Signals and Systems
+- Discrete Maths
 <br>
 
 ## 🔗 How to Reach Me
