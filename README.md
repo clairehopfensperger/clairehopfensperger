@@ -1,7 +1,7 @@
 <h1 align = "center">Welcome to my GitHub!</h1>
 
 ## 🌼 About Me
-I'm Claire, and I'm in my sophomore year at Miami University majoring in computer engineering with a minor in computer science. I'm from Brentwood, TN, but I was born in Green Bay, WI, so I always say I went north for college because I missed the cold. May I say, I definitely experience the cold at school and it is nothing like I was used to in Brentwood. I didn't start coding until my senior year of high school when I took AP Computer Science Principles because I heard it was an easy class to get good credit in and I had space in my schedule. Little did I know that I would have so much passion for coding and eventually study it in college! I learned and became sufficient with Javascript during my first year of coding, but since then I have learned and practiced with many different coding lagunages, such as Java, C, HTML, and more. Alongside coding, I also really enjoy physics and the hardware side of technology. I was the stage manager for my high school theatre department all through high school, so I got my fill of technological experience there. I've always been pretty crafty, and I really liked my physics classes in high school, so I thought computer engineering was the perfect way to combine all of the different topics I enjoy. Just this summer, I researched, planned, and built a computer, and it verified my passion for the electrical side of computer engineering, as well. I'm very excited to take a multitude of relavent classes through [Miami University's College of Engineering and Computing](https://www.miamioh.edu/cec/) and expand my knowledge.
+I'm Claire, and I'm in my sophomore year at Miami University majoring in computer engineering and electrical engineering with a minor in computer science. I'm from Brentwood, TN, but I was born in Green Bay, WI, so I always say I went north for college because I missed the cold. May I say, I definitely experience the cold at school and it is nothing like I was used to in Brentwood. I didn't start coding until my senior year of high school when I took AP Computer Science Principles because I heard it was an easy class to get good credit in and I had space in my schedule. Little did I know that I would have so much passion for coding and eventually study it in college! I learned and became sufficient with Javascript during my first year of coding, but since then I have learned and practiced with many different coding lagunages, such as Java, C, HTML, and more. Alongside coding, I also really enjoy physics and the hardware side of technology. I was the stage manager for my high school theatre department all through high school, so I got my fill of technological experience there. I've always been pretty crafty, and I really liked my physics classes in high school, so I thought computer engineering was the perfect way to combine all of the different topics I enjoy. Just this summer, I researched, planned, and built a computer, and it verified my passion for the electrical side of computer engineering, as well. I'm very excited to take a multitude of relavent classes through [Miami University's College of Engineering and Computing](https://www.miamioh.edu/cec/) and expand my knowledge.
 <br>
 
 ## 👾 My Projects
@@ -50,7 +50,7 @@ I'm Claire, and I'm in my sophomore year at Miami University majoring in compute
 
 - Sophomore Year Fall Semester, 2022
 - Learn about and practice different data structures
-- Linked Lists, Doubly Linked Lists, Stacks, Queues
+- Linked Lists, Doubly Linked Lists, Stacks, Queues, Hash Tables, Hash Maps, Priority Queues, Trees and Binary Trees
 </details>
 
 <details>
@@ -60,6 +60,11 @@ I'm Claire, and I'm in my sophomore year at Miami University majoring in compute
 - Ohm's Law
 - Kirchoff's Circuit Law, Kirchoff's Voltage Law
 - Nodal analysis, mesh nodal analysis
+- Superposition, Source Transformation
+- Thevenin's and Norton's Theorems
+- Op Amps, Inverting and Non-Inverting Amps
+- Capacitors and Inductors
+- RC and RL Circuits
 </details>
 
 <details>
@@ -67,7 +72,10 @@ I'm Claire, and I'm in my sophomore year at Miami University majoring in compute
 
 - Use Quartus and Verilog as our Hardware Description Language to work with an FPGA board
 - Transistors, logic gates, schematics
-- Boolean and logic statements
+- Combinational Logic
+- Number Systems
+- Combinational Circuits
+- Memory with Flip Flops and Registers
 </details>
 
 <br>
