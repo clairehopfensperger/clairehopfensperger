@@ -57,6 +57,7 @@ I'm Claire, and I'm in my sophomore year at Miami University majoring in compute
 <details>
   <summary>Electric Circuit Analysis</summary>
 
+- Sophomore Year Fall Semester, 2022
 - Learn the basics of circuits
 - Ohm's Law
 - Kirchoff's Circuit Law, Kirchoff's Voltage Law
@@ -71,6 +72,7 @@ I'm Claire, and I'm in my sophomore year at Miami University majoring in compute
 <details>
   <summary>Digital Systems Design (⚪️ Verilog)</summary>
 
+- Sophomore Year Fall Semester, 2022
 - Use Quartus and Verilog as our Hardware Description Language to work with an FPGA board
 - Transistors, logic gates, schematics
 - Combinational Logic
