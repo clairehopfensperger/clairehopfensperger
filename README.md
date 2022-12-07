@@ -6,7 +6,7 @@ I'm Claire, and I'm in my sophomore year at Miami University majoring in compute
 
 ## 👾 My Projects
 #### 2022
-- [ECE 287 Final Project **(⚪️ Verilog)**](https://github.com/clairehopfensperger/ECE287_Final_Project)
+- [Tic-Tac-Toe **(⚪️ Verilog)**](https://github.com/clairehopfensperger/ECE287_Final_Project)
 - [Game Room **(🔴 Java)**](https://github.com/clairehopfensperger/GameRoom)
 #### 2021
 - [Snake Game **(🟠 Javascript)**](https://github.com/clairehopfensperger/SnakeGame)
