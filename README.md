@@ -20,6 +20,7 @@ I'm Claire, and I'm in my sophomore year at Miami University majoring in compute
 - Learned the fundamentals of Java programming
 - Practiced problem solving with Java
 </details>
+
 <details>
   <summary>Object-Oriented Programming (🔴 Java)</summary>
   
@@ -31,6 +32,7 @@ I'm Claire, and I'm in my sophomore year at Miami University majoring in compute
 - Introduced GUIs
 - Learned the concept of recursion and practiced coding it
 </details>
+
 <details>
   <summary>Intro to Electrical and Computer Engineering (🔵 C, 🟢 HTML, 🟣 CSS)</summary>
   
@@ -43,12 +45,10 @@ I'm Claire, and I'm in my sophomore year at Miami University majoring in compute
 - Experiemented with Arduino Uno boards and coded on the Arduino IDE
 - Worked with MatLab
 </details>
-<br>
 
-## ✏️ Courses I'm Currently Taking
 <details>
   <summary>Data Abstraction and Data Structures (🔴 Java)</summary>
-
+  
 - Sophomore Year Fall Semester, 2022
 - Learn about and practice different data structures
 - Linked Lists, Doubly Linked Lists, Stacks, Queues, Hash Tables, Hash Maps, Priority Queues, Trees and Binary Trees
@@ -56,9 +56,9 @@ I'm Claire, and I'm in my sophomore year at Miami University majoring in compute
 
 <details>
   <summary>Electric Circuit Analysis</summary>
-
+  
 - Sophomore Year Fall Semester, 2022
-- Learn the basics of circuits
+- Learned the basics of circuits
 - Ohm's Law
 - Kirchoff's Circuit Law, Kirchoff's Voltage Law
 - Nodal analysis, mesh nodal analysis
@@ -67,33 +67,103 @@ I'm Claire, and I'm in my sophomore year at Miami University majoring in compute
 - Op Amps, Inverting and Non-Inverting Amps
 - Capacitors and Inductors
 - RC and RL Circuits
+- Passive and Active Filters
+- Used complex numbers to calculate Impedence
 </details>
 
 <details>
   <summary>Digital Systems Design (⚪️ Verilog)</summary>
-
+  
 - Sophomore Year Fall Semester, 2022
-- Use Quartus and Verilog as our Hardware Description Language to work with an FPGA board
+- Used Quartus and Verilog as our Hardware Description Language to work with an FPGA board
 - Transistors, logic gates, schematics
 - Combinational Logic
 - Number Systems
 - Combinational Circuits
 - Memory with Flip Flops and Registers
+- Finite State Machines
+- On-RAM Memory
+- [Final Project](https://github.com/clairehopfensperger/ECE287_Final_Project) implementing all the things we learned this semester
+</details>
+<br>
+
+## ✏️ Courses I'm Currently Taking
+<details>
+  <summary>Computer Organization</summary>
+  
+- Sophomore Year Spring Semester, 2023
+- Assembly with MIPs using MARs
 </details>
 
+<details>
+  <summary>Systems I (🟡 C++)</summary>
+ 
+- Sophomore Year Spring Semester, 2023
+- Practiced different Linux commands in command prompt/terminal
+- Learned basic C++ coding
+</details>
+
+<details>
+  <summary>Signals and Systems</summary>
+  
+- Sophomore Year Spring Semester, 2023
+- Introduced different types of waves
+</details>
 <br>
 
 ## 📚 Courses I'm Taking Next Semester
-- Computer Organization
-- Systems I
-- Signals and Systems
-- Discrete Maths
+- Electronics
+- Applied Probability and Statistics for Engineers
+- Systems II
+- Applied Electromagnetics
+- Some other EE class
 <br>
 
 ## 🔗 How to Reach Me
 - 📧 Email - hopfencg@miamioh.edu
 - 🟦 LinkedIn - [linkedin.com/in/clairehopfensperger](https://www.linkedin.com/in/clairehopfensperger/)
 <br>
+
+<!--
+
+### Other Classes I've Taken:
+<details>
+  <summary>Physics II with Lab</summary>
+- Freshman Year Fall Semester, 2021
+</details>
+
+<details>
+  <summary>Calculus III</summary>
+- Freshman Year Fall Semester, 2021
+</details>
+
+<details>
+  <summary>Linear Algebra and Differential Equations for Engineers</summary>
+- Freshman Year Spring Semester, 2022
+</details>
+
+<details>
+  <summary>College Chemistry and College Chemisty Lab</summary>
+- Freshman Year Spring Semester, 2022
+</details>
+
+<details>
+  <summary>Biology with Lab</summary>
+- Summer 2022
+</details>
+<br>
+
+### Other Courses I'm Taking
+<details>
+  <summary>Technical Writing</summary>
+</details>
+
+<details>
+  <summary>Introduction to Women's, Gender, and Sexuality Studies</summary>
+</details>
+<br>
+
+-->
 
 <!--
 **clairehopfensperger/clairehopfensperger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
