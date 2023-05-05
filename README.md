@@ -6,7 +6,7 @@ I'm Claire, and I'm in my sophomore year at Miami University majoring in compute
 
 ## 👾 My Projects
 #### 2023
-- [Architecture Hardware Implementation **(⚪️ Verilog, ⚫️Assembly)**](https://github.com/clairehopfensperger/Hardware_Implementation)
+- [Architecture Hardware Implementation **(⚪️ Verilog, ⚫️ Assembly)**](https://github.com/clairehopfensperger/Hardware_Implementation)
 #### 2022
 - [Tic-Tac-Toe **(⚪️ Verilog)**](https://github.com/clairehopfensperger/ECE287_Final_Project)
 - [Game Room **(🔴 Java)**](https://github.com/clairehopfensperger/GameRoom)
@@ -91,7 +91,7 @@ I'm Claire, and I'm in my sophomore year at Miami University majoring in compute
 
 ## ✏️ Courses I'm Currently Taking
 <details>
-  <summary>Computer Organization</summary>
+  <summary>Computer Organization (⚫️ Assembly)</summary>
   
 - Sophomore Year Spring Semester, 2023
 - Assembly with MIPs using MARs
