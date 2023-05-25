@@ -1,3 +1,8 @@
+<!--
+This thing show how many views a page gets i think, would need to change
+<img align="RIGHT" src="https://komarev.com/ghpvc/?username=clairehopfensperger&style=for-the-badge&label=  👀  &color=000000"/><br>
+-->
+
 <h1 align = "center">Welcome to my GitHub!</h1>
 
 ## 🌼 About Me
@@ -133,6 +138,13 @@ This summer, summer of 2023, I am working as an electrical engineer intern at Cr
 ## 🔗 How to Reach Me
 - 📧 Email - hopfencg@miamioh.edu
 - 🟦 LinkedIn - [linkedin.com/in/clairehopfensperger](https://www.linkedin.com/in/clairehopfensperger/)
+<br>
+
+## Stats Because I Was Curious :)
+<p align = "left">
+<img src="https://github-readme-stats.vercel.app/api?username=clairehopfensperger&hide=contribs&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=91bac7&border_radius=8&border_color=91bac7&bg_color=23272e&line_height=24&hide_rank=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clairehopfensperger&hide=php&title_color=FFFFFF&icon_color=FFF&text_color=91bac7&border_radius=8&border_color=91bac7&bg_color=23272e&langs_count=10&layout=compact" />
+</p>
 <br>
 
 <!--
