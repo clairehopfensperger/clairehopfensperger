@@ -14,6 +14,7 @@ During the summer of 2022, I researched, planned, and built a computer, and this
 <br><br>
 This summer, summer of 2023, I am working as an electrical engineer intern at Cryptic Vector, and I know this internship will teach me many new skills and show me what it is like to work in the contracting engineering industry.
 <br>
+<br>
 
 ## 👾 My Projects
 #### 2023
@@ -98,15 +99,13 @@ This summer, summer of 2023, I am working as an electrical engineer intern at Cr
 - On-RAM Memory
 - [Final Project](https://github.com/clairehopfensperger/ECE287_Final_Project) implementing all the things we learned this semester
 </details>
-<br>
 
-## ✏️ Courses I'm Currently Taking
 <details>
   <summary>Computer Organization (⚫️ Assembly)</summary>
   
 - Sophomore Year Spring Semester, 2023
 - Assembly with MIPs using MARs
-- Understanding computer architecture
+- Understood computer architecture
 - Optimization using compiler pipelining, and cache optimizations
 - [Architecture Hardware Implementation Project](https://github.com/clairehopfensperger/Hardware_Implementation)
 </details>
@@ -123,8 +122,27 @@ This summer, summer of 2023, I am working as an electrical engineer intern at Cr
   <summary>Signals and Systems</summary>
   
 - Sophomore Year Spring Semester, 2023
-- Introduced different types of waves
+- Signal classification and operations
+- Reviewed common signals (step, impulse, complex exponential)
+- Fourier analysis
+- System properties and determining them 
+- Transfer function, H(E)
+- System simulation diagrams
+- Found system response using homogenous and particular solutions
+- Found system response using zero input response and zero state response
+- BIBO stability and how to determine whether or not a system has it
+- Found step response using convolution or z-transform
+- Found inverse z-transform using partial fraction expansion
+- Solved idfference equations
+- Applied discrete concepts described above to continuous time systems
+- Used Laplace transform to find continuous time step response
+- Found frequency responses of both discrete and continuous time systems
 </details>
+<br>
+
+## ✏️ Courses I'm Currently Taking
+Electrical Engineering Internship at Cryptic Vector
+<br>
 <br>
 
 ## 📚 Courses I'm Taking Next Semester
@@ -140,7 +158,7 @@ This summer, summer of 2023, I am working as an electrical engineer intern at Cr
 - 🟦 LinkedIn - [linkedin.com/in/clairehopfensperger](https://www.linkedin.com/in/clairehopfensperger/)
 <br>
 
-## Stats Because I Was Curious :)
+## My GitHub Stats
 <p align = "left">
 <img src="https://github-readme-stats.vercel.app/api?username=clairehopfensperger&hide=contribs&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=91bac7&border_radius=8&border_color=91bac7&bg_color=23272e&line_height=24&hide_rank=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clairehopfensperger&hide=php&title_color=FFFFFF&icon_color=FFF&text_color=91bac7&border_radius=8&border_color=91bac7&bg_color=23272e&langs_count=10&layout=compact" />
