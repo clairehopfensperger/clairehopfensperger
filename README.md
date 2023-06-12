@@ -169,8 +169,6 @@ Electrical Engineering Internship at Cryptic Vector
 - VHDL
 - Vivado
 - GitLab
-
-<br>
 <br>
 
 ## 📚 Courses I'm Taking Next Semester
