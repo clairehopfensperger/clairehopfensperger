@@ -27,6 +27,8 @@ This summer, summer of 2023, I am working as an electrical engineer intern at Cr
 <br>
 
 ## 📓 Courses I've Taken
+*Click on the classes for more information!*
+
 <details>
   <summary>Fundamentals of Programming (🔴 Java)</summary>
   
@@ -114,8 +116,28 @@ This summer, summer of 2023, I am working as an electrical engineer intern at Cr
   <summary>Systems I (🟡 C++)</summary>
  
 - Sophomore Year Spring Semester, 2023
-- Practiced different Linux commands in command prompt/terminal
-- Learned basic C++ coding
+- Used Linux commands in terminal/command prompt
+- C++ programming
+- Functions 
+- Pass by reference, pass by value 
+- Scope of variables  
+- Function overloading 
+- Separate files and modular compilation 
+- Makefile 
+- Array & Vector 
+- I/O file stream  
+- Pointers  
+- GDB Debugger
+- Pointers (declaration, arithmetic, functions with pointer parameters)
+- Command Line arguments
+- Set, Map
+- OOP
+- Class Design (Constructors, Accessors, Mutators, Split Design)
+- Operator Overloading (member, non-member)
+- Dynamic Memory Management (Operators new, delete, Heap Memory, Memory Leak)
+- Rule of Three (Destructors, Copy constructor, Copy assignment operator)
+- Network (IP address, port number, Linux commands for network, Socket Programming)
+- Basic SQL for Database work
 </details>
 
 <details>
@@ -142,6 +164,12 @@ This summer, summer of 2023, I am working as an electrical engineer intern at Cr
 
 ## ✏️ Courses I'm Currently Taking
 Electrical Engineering Internship at Cryptic Vector
+
+#### Skills I'm Learning:
+- VHDL
+- Vivado
+- GitLab
+
 <br>
 <br>
 
