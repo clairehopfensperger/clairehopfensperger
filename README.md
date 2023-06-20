@@ -165,10 +165,11 @@ This summer, summer of 2023, I am working as an electrical engineer intern at Cr
 ## ✏️ Courses I'm Currently Taking
 Electrical Engineering Internship at Cryptic Vector
 
-#### Skills I'm Learning:
+#### Skills I'm Practicing:
 - VHDL
 - Vivado
 - GitLab
+- ModelSim
 <br>
 
 ## 📚 Courses I'm Taking Next Semester
