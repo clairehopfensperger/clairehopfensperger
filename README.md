@@ -26,7 +26,7 @@ This summer, summer of 2023, I am working as an electrical engineer intern at Cr
 - [Snake Game **(🟠 Javascript)**](https://github.com/clairehopfensperger/SnakeGame)
 <br>
 
-## 📓 Courses I've Taken
+## 📓 Relevant Courses I've Taken
 *Click on the classes for more information!*
 
 <details>
