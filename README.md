@@ -21,6 +21,11 @@ During the summer of 2023, I worked as an electrical engineer intern at Cryptic 
 - Implemented new low probability of detection communication waveform in existing VHDL program
 - Designed and created VHDL packet generator and parser programs for VITA 49.2 Radio Transport protocol
 - Assisted with radio field testing, assessed transmitting/receiving reach capabilities across different terrain
+- Skills I practiced:
+  - VHDL
+  - Vivado
+  - GitLab
+  - ModelSim
 <br>
 
 ## 👾 My Projects
@@ -170,21 +175,48 @@ During the summer of 2023, I worked as an electrical engineer intern at Cryptic 
 <br>
 
 ## ✏️ Courses I'm Currently Taking
-Electrical Engineering Internship at Cryptic Vector
+*Click on the classes for more information!*
 
-#### Skills I'm Practicing:
-- VHDL
-- Vivado
-- GitLab
-- ModelSim
+<details>
+  <summary>Electronics</summary>
+  
+  - Junior Year Fall Semester, 2023
+</details>
+
+
+<details>
+  <summary>Applied Probability and Statistics for Engineers</summary>
+  
+  - Junior Year Fall Semester, 2023
+</details>
+
+
+<details>
+  <summary>Systems II (🟡 C++)</summary>
+  
+  - Junior Year Fall Semester, 2023
+</details>
+
+
+<details>
+  <summary>Applied Electromagnetics</summary>
+  
+  - Junior Year Fall Semester, 2023
+</details>
+
+<details>
+  <summary>Technology, Ethics, and Global Society</summary>
+  
+  - Junior Year Fall Semester, 2023
+</details>
 <br>
 
 ## 📚 Courses I'm Taking Next Semester
-- Electronics
-- Applied Probability and Statistics for Engineers
-- Systems II
-- Applied Electromagnetics
-- Some other EE class
+- Elements of Robotics
+- Digital Signal Processing
+- Circuits II & Renewable Energy
+- Embedded Systems Design
+- Global/Interculteral Perspectives
 <br>
 
 ## 🔗 How to Reach Me
