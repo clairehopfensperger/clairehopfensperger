@@ -18,7 +18,7 @@ This summer, summer of 2023, I am working as an electrical engineer intern at Cr
 
 ## 👾 My Projects
 #### 2023
-- [Architecture Hardware Implementation **(⚪️ Verilog, ⚫️ Assembly)**](https://github.com/clairehopfensperger/Hardware_Implementation)
+- [RISC-V Architecture **(⚪️ Verilog, ⚫️ Assembly)**](https://github.com/clairehopfensperger/RISC_V_Architecture)
 #### 2022
 - [Tic-Tac-Toe **(⚪️ Verilog)**](https://github.com/clairehopfensperger/ECE287_Final_Project)
 - [Game Room **(🔴 Java)**](https://github.com/clairehopfensperger/GameRoom)
