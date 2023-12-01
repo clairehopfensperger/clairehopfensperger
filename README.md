@@ -6,14 +6,21 @@ This thing show how many views a page gets i think, would need to change
 <h1 align = "center">Welcome to my GitHub!</h1>
 
 ## 🌼 About Me
-I'm Claire, and I finished my sophomore year at Miami University majoring in computer engineering and electrical engineering with a minor in computer science. I'm from Brentwood, TN, but I was born in Green Bay, WI, so I always say I went north for college because I missed the cold. May I say, I definitely experience the cold at school and it is nothing like I was used to in Brentwood. 
+I'm Claire, and I'm in my junior year at Miami University majoring in computer engineering and electrical engineering with a minor in computer science. I'm from Brentwood, TN, but I was born in Green Bay, WI, so I always say I went north for college because I missed the cold. May I say, I definitely experience the cold at school and it is nothing like I was used to in Brentwood. 
 <br><br>
-I didn't start coding until my senior year of high school when I took AP Computer Science Principles because I heard it was an easy class to get good credit in and I had space in my schedule. Little did I know that I would have so much passion for coding and eventually study it in college! I learned and became sufficient with Javascript during my first year of coding, but since then I have learned and practiced with many different programming lagunages. My main languages are Java, C++, and Verilog, and I am currently working to become sufficient in VHDL. Alongside programming, I also really enjoy physics and the hardware side of technology, so I thought computer engineering was the perfect way to combine all of the different topics I enjoy. I'm very excited to take a multitude of relavent classes through [Miami University's College of Engineering and Computing](https://www.miamioh.edu/cec/) and expand my knowledge.
+I didn't start coding until my senior year of high school when I took AP Computer Science Principles because I heard it was an easy class to get good credit in and I had space in my schedule. Little did I know that I would have so much passion for coding and eventually study it in college! I learned and became sufficient with Javascript during my first year of coding, but since then I have learned and practiced with many different programming lagunages. My main languages are C++, Verilog, and VHDL. Alongside programming, I also really enjoy physics and the hardware side of technology, so I thought computer engineering was the perfect way to combine all of the different topics I enjoy. I'm very excited to take a multitude of relavent classes through [Miami University's College of Engineering and Computing](https://www.miamioh.edu/cec/) and expand my knowledge.
 <br><br>
 During the summer of 2022, I researched, planned, and built a computer, and this personal project verified my passion for the electrical side of computer engineering, as well. Then, during the winter of 2022, I did the same process to build a keyboard, and this keyboard is the best thing ever (75% FTW). 
 <br><br>
-This summer, summer of 2023, I am working as an electrical engineer intern at Cryptic Vector, and I know this internship will teach me many new skills and show me what it is like to work in the contracting engineering industry.
+During the summer of 2023, I worked as an electrical engineer intern at Cryptic Vector, and this internship taught me many new skills and showed me what it was like to work in the contracting engineering industry.
 <br>
+<br>
+
+## 🔌 Electrical Engineer Internship at Cryptic Vector
+#### Summer 2023
+- Implemented new low probability of detection communication waveform in existing VHDL program
+- Designed and created VHDL packet generator and parser programs for VITA 49.2 Radio Transport protocol
+- Assisted with radio field testing, assessed transmitting/receiving reach capabilities across different terrain
 <br>
 
 ## 👾 My Projects
