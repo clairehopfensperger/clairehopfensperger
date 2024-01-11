@@ -42,10 +42,12 @@ During the summer of 2023, I worked as an electrical engineer intern at Cryptic 
 ## 📓 Relevant Courses I've Taken
 *Click on the classes for more information!*
 
+### CSE Courses
+
 <details>
   <summary>Fundamentals of Programming (🔴 Java)</summary>
   
-- Freshman Year Fall Semester, 2021
+- CSE 174; Freshman Year Fall Semester, 2021
 - Learned the fundamentals of Java programming
 - Practiced problem solving with Java
 </details>
@@ -53,7 +55,7 @@ During the summer of 2023, I worked as an electrical engineer intern at Cryptic 
 <details>
   <summary>Object-Oriented Programming (🔴 Java)</summary>
   
-- Freshman Year Spring Semester, 2022
+- CSE 271; Freshman Year Spring Semester, 2022
 - Learned the four key principles of Object-Oriented Programming: Encapsulation, Abstraction, Inheritance, and Polymorphism
 - Focused more on learning more functionality of Java than problem solving
 - Practiced making classes, understanding UML notation, inplementing inheritance and polymorphism
@@ -63,72 +65,17 @@ During the summer of 2023, I worked as an electrical engineer intern at Cryptic 
 </details>
 
 <details>
-  <summary>Intro to Electrical and Computer Engineering (🔵 C, 🟢 HTML, 🟣 CSS)</summary>
-  
-- Freshman Year Spring Semester, 2022
-- Introduced and practiced navigating Linux terminal and directories and editing files within terminal
-- Practiced coding with C
-- Created simple webpages with HTML and CSS
-- Built and coded Lego Mindstorm robots to battle using NXC in Bricx Command Center
-- Practiced different applications of Microsoft Excel
-- Experiemented with Arduino Uno boards and coded on the Arduino IDE
-- Worked with MatLab
-</details>
-
-<details>
   <summary>Data Abstraction and Data Structures (🔴 Java)</summary>
   
-- Sophomore Year Fall Semester, 2022
+- CSE 274; Sophomore Year Fall Semester, 2022
 - Learn about and practice different data structures
 - Linked Lists, Doubly Linked Lists, Stacks, Queues, Hash Tables, Hash Maps, Priority Queues, Trees and Binary Trees
 </details>
 
 <details>
-  <summary>Electric Circuit Analysis</summary>
-  
-- Sophomore Year Fall Semester, 2022
-- Learned the basics of circuits
-- Ohm's Law
-- Kirchoff's Circuit Law, Kirchoff's Voltage Law
-- Nodal analysis, mesh nodal analysis
-- Superposition, Source Transformation
-- Thevenin's and Norton's Theorems
-- Op Amps, Inverting and Non-Inverting Amps
-- Capacitors and Inductors
-- RC and RL Circuits
-- Passive and Active Filters
-- Used complex numbers to calculate Impedence
-</details>
-
-<details>
-  <summary>Digital Systems Design (⚪️ Verilog)</summary>
-  
-- Sophomore Year Fall Semester, 2022
-- Used Quartus and Verilog as our Hardware Description Language to work with an FPGA board
-- Transistors, logic gates, schematics
-- Combinational Logic
-- Number Systems
-- Combinational Circuits
-- Memory with Flip Flops and Registers
-- Finite State Machines
-- On-RAM Memory
-- [Final Project](https://github.com/clairehopfensperger/ECE287_Final_Project) implementing all the things we learned this semester
-</details>
-
-<details>
-  <summary>Computer Organization (⚫️ Assembly)</summary>
-  
-- Sophomore Year Spring Semester, 2023
-- Assembly with MIPs using MARs
-- Understood computer architecture
-- Optimization using compiler pipelining, and cache optimizations
-- [Architecture Hardware Implementation Project](https://github.com/clairehopfensperger/Hardware_Implementation)
-</details>
-
-<details>
   <summary>Systems I (🟡 C++)</summary>
  
-- Sophomore Year Spring Semester, 2023
+- CSE 278; Sophomore Year Spring Semester, 2023
 - Used Linux commands in terminal/command prompt
 - C++ programming
 - Functions 
@@ -154,9 +101,106 @@ During the summer of 2023, I worked as an electrical engineer intern at Cryptic 
 </details>
 
 <details>
+  <summary>Systems II (🟡 C++)</summary>
+  
+  - CSE 381; Junior Year Fall Semester, 2023
+  - Virtualization and hypervisors
+  - Cloud computing and types of clouds
+  - C++ review
+  - Linux OS, computer systems, operating systems
+  - Syscalls, booting, and processes
+  - Fork and exec
+  - Multiprocessing, pipes, file permissions
+  - [Multi]Threading, race conditions
+  - Amdahl's Law
+  - Data and task parallel multithreading
+  - Critical sections and mutex
+  - Producer and consumer threads: busy-wait and sleep-wake
+  - Filesystems
+  - Cybersecurity, common attacks
+  - Great programming practices/skills
+</details>
+
+<details>
+  <summary>Technology, Ethics, and Global Society</summary>
+  
+  - CSE 262; Junior Year Fall Semester, 2023
+  - 7 theories of the Spectrum of Ethics: Communitarianism, Deontology, Egoism, Ethic of Caring, Existentialism, Utilitarianism, Virtue Ethics
+  - Digital privacy
+  - European Union's GDPR
+  - Risk management
+  - Ethical hacking
+  - Accessible technology and disability services
+  - Social media moderation: Seciton 230, EU DSA
+  - Boeing 737 Max Incidents
+  - Therac-25 Incidents
+  - Doomscrolling
+  - Search engines/ChatGPT
+  - EU DMA
+  - Tech ethics of the future
+</details>
+
+### ECE Courses
+
+<details>
+  <summary>Intro to Electrical and Computer Engineering (🔵 C, 🟢 HTML, 🟣 CSS)</summary>
+  
+- ECE 201; Freshman Year Spring Semester, 2022
+- Introduced and practiced navigating Linux terminal and directories and editing files within terminal
+- Practiced coding with C
+- Created simple webpages with HTML and CSS
+- Built and coded Lego Mindstorm robots to battle using NXC in Bricx Command Center
+- Practiced different applications of Microsoft Excel
+- Experiemented with Arduino Uno boards and coded on the Arduino IDE
+- Worked with MatLab
+</details>
+
+<details>
+  <summary>Electric Circuit Analysis</summary>
+  
+- ECE 205; Sophomore Year Fall Semester, 2022
+- Learned the basics of circuits
+- Ohm's Law
+- Kirchoff's Circuit Law, Kirchoff's Voltage Law
+- Nodal analysis, mesh nodal analysis
+- Superposition, Source Transformation
+- Thevenin's and Norton's Theorems
+- Op Amps, Inverting and Non-Inverting Amps
+- Capacitors and Inductors
+- RC and RL Circuits
+- Passive and Active Filters
+- Used complex numbers to calculate Impedence
+</details>
+
+<details>
+  <summary>Digital Systems Design (⚪️ Verilog)</summary>
+  
+- ECE 287; Sophomore Year Fall Semester, 2022
+- Used Quartus and Verilog as our Hardware Description Language to work with an FPGA board
+- Transistors, logic gates, schematics
+- Combinational Logic
+- Number Systems
+- Combinational Circuits
+- Memory with Flip Flops and Registers
+- Finite State Machines
+- On-RAM Memory
+- [Final Project](https://github.com/clairehopfensperger/ECE287_Final_Project) implementing all the things we learned this semester
+</details>
+
+<details>
+  <summary>Computer Organization (⚫️ Assembly)</summary>
+  
+- ECE 289; Sophomore Year Spring Semester, 2023
+- Assembly with MIPs using MARs
+- Understood computer architecture
+- Optimization using compiler pipelining, and cache optimizations
+- [Architecture Hardware Implementation Project](https://github.com/clairehopfensperger/Hardware_Implementation)
+</details>
+
+<details>
   <summary>Signals and Systems</summary>
   
-- Sophomore Year Spring Semester, 2023
+- ECE 306; Sophomore Year Spring Semester, 2023
 - Signal classification and operations
 - Reviewed common signals (step, impulse, complex exponential)
 - Fourier analysis
@@ -177,7 +221,7 @@ During the summer of 2023, I worked as an electrical engineer intern at Cryptic 
 <details>
   <summary>Electronics</summary>
   
-  - Junior Year Fall Semester, 2023
+  - ECE 304; Junior Year Fall Semester, 2023
   - General circuit analysis review
   - Characteristics of ideal opamp
   - Analyzing and solving non-inverting and inverting opamp circuit problems
@@ -199,7 +243,7 @@ During the summer of 2023, I worked as an electrical engineer intern at Cryptic 
 <details>
   <summary>Applied Probability and Statistics for Engineers</summary>
   
-  - Junior Year Fall Semester, 2023
+  - ECE 345; Junior Year Fall Semester, 2023
   - Set operations
   - Conditional probability, total probability
   - Bayes' Rule
@@ -222,33 +266,10 @@ During the summer of 2023, I worked as an electrical engineer intern at Cryptic 
   - Confidence interval
 </details>
 
-
-<details>
-  <summary>Systems II (🟡 C++)</summary>
-  
-  - Junior Year Fall Semester, 2023
-  - Virtualization and hypervisors
-  - Cloud computing and types of clouds
-  - C++ review
-  - Linux OS, computer systems, operating systems
-  - Syscalls, booting, and processes
-  - Fork and exec
-  - Multiprocessing, pipes, file permissions
-  - [Multi]Threading, race conditions
-  - Amdahl's Law
-  - Data and task parallel multithreading
-  - Critical sections and mutex
-  - Producer and consumer threads: busy-wait and sleep-wake
-  - Filesystems
-  - Cybersecurity, common attacks
-  - Great programming practices/skills
-</details>
-
-
 <details>
   <summary>Applied Electromagnetics</summary>
   
-  - Junior Year Fall Semester, 2023
+  - ECE 325; Junior Year Fall Semester, 2023
   - HFSS modeling and simulation using ANSYS
   - RLC model of coaxial cable
   - Telgrapher Equations
@@ -262,25 +283,6 @@ During the summer of 2023, I worked as an electrical engineer intern at Cryptic 
   - Maxwell's equations overview
   - Lab, individual project, and final project reports
 </details>
-
-<details>
-  <summary>Technology, Ethics, and Global Society</summary>
-  
-  - Junior Year Fall Semester, 2023
-  - 7 theories of the Spectrum of Ethics: Communitarianism, Deontology, Egoism, Ethic of Caring, Existentialism, Utilitarianism, Virtue Ethics
-  - Digital privacy
-  - European Union's GDPR
-  - Risk management
-  - Ethical hacking
-  - Accessible technology and disability services
-  - Social media moderation: Seciton 230, EU DSA
-  - Boeing 737 Max Incidents
-  - Therac-25 Incidents
-  - Doomscrolling
-  - Search engines/ChatGPT
-  - EU DMA
-  - Tech ethics of the future
-</details>
 <br>
 
 ## ✏️ Courses I'm Currently Taking
@@ -289,37 +291,41 @@ During the summer of 2023, I worked as an electrical engineer intern at Cryptic 
 <details>
   <summary>Elements of Robotics</summary>
 
-  - Junior Year Spring Semester, 2024
+  - ECE 314; Junior Year Spring Semester, 2024
 </details>
 
 <details>
   <summary>Digital Signal Processing</summary>
 
-  - Junior Year Spring Semester, 2024
+  - ECE 425; Junior Year Spring Semester, 2024
 </details>
 
 <details>
   <summary>Circuits II & Renewable Energy</summary>
 
-  - Junior Year Spring Semester, 2024
+  - ECE 301; Junior Year Spring Semester, 2024
 </details>
 
 <details>
   <summary>Embedded Systems Design</summary>
 
-  - Junior Year Spring Semester, 2024
+  - ECE 484; Junior Year Spring Semester, 2024
 </details>
 
 <details>
-  <summary>History Since 1500</summary>
+  <summary>World History Since 1500</summary>
 
-  - Junior Year Spring Semester, 2024
+  - HST 198; Junior Year Spring Semester, 2024
   - Global Perspective Requirement
 </details>
 <br>
 
 ## 📚 Courses I'm Taking Next Semester
-
+- Senior Design
+- Intro to Smartphone Technologies
+- Digital Image Processing
+- Communication Systems
+- Control of Dynamic Systems
 <br>
 
 ## 🔗 How to Reach Me
