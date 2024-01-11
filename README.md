@@ -200,6 +200,26 @@ During the summer of 2023, I worked as an electrical engineer intern at Cryptic 
   <summary>Applied Probability and Statistics for Engineers</summary>
   
   - Junior Year Fall Semester, 2023
+  - Set operations
+  - Conditional probability, total probability
+  - Bayes' Rule
+  - Independence
+  - Discrete random variables
+  - Probability mass function
+  - Expected value
+  - Continuous random variables
+  - CDF and PDF
+  - Gaussian and other density functions
+  - Expectation and variance
+  - Conditional CDF and PDF
+  - Pairs of random variables
+  - Joint and marginal PMF, CDF, PDF
+  - Correlation, covariance, correlation coefficient
+  - Sums of random variables
+  - Central Limit Theorem
+  - Sampling distributions
+  - Parameter estimation and maximum likelihood estimation
+  - Confidence interval
 </details>
 
 
@@ -207,6 +227,21 @@ During the summer of 2023, I worked as an electrical engineer intern at Cryptic 
   <summary>Systems II (🟡 C++)</summary>
   
   - Junior Year Fall Semester, 2023
+  - Virtualization and hypervisors
+  - Cloud computing and types of clouds
+  - C++ review
+  - Linux OS, computer systems, operating systems
+  - Syscalls, booting, and processes
+  - Fork and exec
+  - Multiprocessing, pipes, file permissions
+  - [Multi]Threading, race conditions
+  - Amdahl's Law
+  - Data and task parallel multithreading
+  - Critical sections and mutex
+  - Producer and consumer threads: busy-wait and sleep-wake
+  - Filesystems
+  - Cybersecurity, common attacks
+  - Great programming practices/skills
 </details>
 
 
@@ -232,6 +267,19 @@ During the summer of 2023, I worked as an electrical engineer intern at Cryptic 
   <summary>Technology, Ethics, and Global Society</summary>
   
   - Junior Year Fall Semester, 2023
+  - 7 theories of the Spectrum of Ethics: Communitarianism, Deontology, Egoism, Ethic of Caring, Existentialism, Utilitarianism, Virtue Ethics
+  - Digital privacy
+  - European Union's GDPR
+  - Risk management
+  - Ethical hacking
+  - Accessible technology and disability services
+  - Social media moderation: Seciton 230, EU DSA
+  - Boeing 737 Max Incidents
+  - Therac-25 Incidents
+  - Doomscrolling
+  - Search engines/ChatGPT
+  - EU DMA
+  - Tech ethics of the future
 </details>
 <br>
 
