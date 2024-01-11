@@ -30,7 +30,7 @@ During the summer of 2023, I worked as an electrical engineer intern at Cryptic 
 
 ## 👾 My Projects
 #### 2023
-- VU Meter Analog Circuit
+- [VU Meter Analog Circuit](https://github.com/clairehopfensperger/VU_Meter)
 - [RISC-V Architecture **(⚪️ Verilog, ⚫️ Assembly)**](https://github.com/clairehopfensperger/RISC_V_Architecture)
 #### 2022
 - [Tic-Tac-Toe **(⚪️ Verilog)**](https://github.com/clairehopfensperger/ECE287_Final_Project)
@@ -236,7 +236,7 @@ During the summer of 2023, I worked as an electrical engineer intern at Cryptic 
   - Large and small signal model analysis of NPN BJT circuits
   - MOSFETs
   - Large and small signal model analysis of MOSFET circuits
-  - Final Project: VU Meter Analog Circuit
+  - Final Project: [VU Meter Analog Circuit](https://github.com/clairehopfensperger/VU_Meter)
 </details>
 
 
