@@ -30,6 +30,7 @@ During the summer of 2023, I worked as an electrical engineer intern at Cryptic 
 
 ## 👾 My Projects
 #### 2023
+- VU Meter Analog Circuit
 - [RISC-V Architecture **(⚪️ Verilog, ⚫️ Assembly)**](https://github.com/clairehopfensperger/RISC_V_Architecture)
 #### 2022
 - [Tic-Tac-Toe **(⚪️ Verilog)**](https://github.com/clairehopfensperger/ECE287_Final_Project)
@@ -172,15 +173,26 @@ During the summer of 2023, I worked as an electrical engineer intern at Cryptic 
 - Used Laplace transform to find continuous time step response
 - Found frequency responses of both discrete and continuous time systems
 </details>
-<br>
-
-## ✏️ Courses I'm Currently Taking
-*Click on the classes for more information!*
 
 <details>
   <summary>Electronics</summary>
   
   - Junior Year Fall Semester, 2023
+  - General circuit analysis review
+  - Characteristics of ideal opamp
+  - Analyzing and solving non-inverting and inverting opamp circuit problems
+  - Applications of phasors in circuits
+  - Solving for and using transfer functions and corner frequencies
+  - Low-pass, high-pass, and band-pass filters
+  - Analyzing and solving amplifier circuit problems
+  - Gain: power, voltage, and current
+  - Bode plots
+  - Diodes: solving and applications
+  - Bipolar Junction Transistors (BJTs): NPN and PNP
+  - Large and small signal model analysis of NPN BJT circuits
+  - MOSFETs
+  - Large and small signal model analysis of MOSFET circuits
+  - Final Project: VU Meter Analog Circuit
 </details>
 
 
@@ -202,6 +214,18 @@ During the summer of 2023, I worked as an electrical engineer intern at Cryptic 
   <summary>Applied Electromagnetics</summary>
   
   - Junior Year Fall Semester, 2023
+  - HFSS modeling and simulation using ANSYS
+  - RLC model of coaxial cable
+  - Telgrapher Equations
+  - Characteristic impedance
+  - Reflection coefficient
+  - VSWR
+  - Lattice Diagrams
+  - Max power transfer and efficiency
+  - Crosstalk and jitter
+  - Smith Chart
+  - Maxwell's equations overview
+  - Lab, individual project, and final project reports
 </details>
 
 <details>
@@ -211,12 +235,43 @@ During the summer of 2023, I worked as an electrical engineer intern at Cryptic 
 </details>
 <br>
 
+## ✏️ Courses I'm Currently Taking
+*Click on the classes for more information!*
+
+<details>
+  <summary>Elements of Robotics</summary>
+
+  - Junior Year Spring Semester, 2024
+</details>
+
+<details>
+  <summary>Digital Signal Processing</summary>
+
+  - Junior Year Spring Semester, 2024
+</details>
+
+<details>
+  <summary>Circuits II & Renewable Energy</summary>
+
+  - Junior Year Spring Semester, 2024
+</details>
+
+<details>
+  <summary>Embedded Systems Design</summary>
+
+  - Junior Year Spring Semester, 2024
+</details>
+
+<details>
+  <summary>History Since 1500</summary>
+
+  - Junior Year Spring Semester, 2024
+  - Global Perspective Requirement
+</details>
+<br>
+
 ## 📚 Courses I'm Taking Next Semester
-- Elements of Robotics
-- Digital Signal Processing
-- Circuits II & Renewable Energy
-- Embedded Systems Design
-- Global/Interculteral Perspectives
+
 <br>
 
 ## 🔗 How to Reach Me
