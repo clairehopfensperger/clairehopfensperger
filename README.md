@@ -145,7 +145,7 @@ During the summer of 2023, I worked as an electrical engineer intern at Cryptic 
 <details>
   <summary>Intro to Electrical and Computer Engineering (🔵 C, 🟢 HTML, 🟣 CSS)</summary>
   
-- ECE 201; Freshman Year Spring Semester, 2022
+- ECE 102; Freshman Year Spring Semester, 2022
 - Introduced and practiced navigating Linux terminal and directories and editing files within terminal
 - Practiced coding with C
 - Created simple webpages with HTML and CSS
