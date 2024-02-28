@@ -30,9 +30,9 @@ During the summer of 2023, I worked as an electrical engineer intern at Cryptic 
 
 ## 👾 My Projects
 #### 2024
-- [Tilt Switch Library](https://github.com/clairehopfensperger/ECE484_Tilt_Switch)
-- [Pinball Machine](https://github.com/clairehopfensperger/ECE484_Pinball_Machine)
-- [Pinball Machine Display](https://github.com/clairehopfensperger/ECE484_Pinball_Display)
+- [Tilt Switch Library **(🔵 C)**](https://github.com/clairehopfensperger/ECE484_Tilt_Switch)
+- [Pinball Machine **(🔵 C)**](https://github.com/clairehopfensperger/ECE484_Pinball_Machine)
+- [Pinball Machine Display **(🔵 C)**](https://github.com/clairehopfensperger/ECE484_Pinball_Display)
 #### 2023
 - [VU Meter Analog Circuit](https://github.com/clairehopfensperger/VU_Meter)
 - [RISC-V Architecture **(⚪️ Verilog, ⚫️ Assembly)**](https://github.com/clairehopfensperger/RISC_V_Architecture)
@@ -311,7 +311,7 @@ During the summer of 2023, I worked as an electrical engineer intern at Cryptic 
 </details>
 
 <details>
-  <summary>Embedded Systems Design</summary>
+  <summary>Embedded Systems Design (🔵 C)</summary>
 
   - ECE 484; Junior Year Spring Semester, 2024
 </details>
