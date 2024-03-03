@@ -333,7 +333,7 @@ During the summer of 2023, I worked as an electrical engineer intern at Cryptic 
 <br>
 
 ## 🔗 How to Reach Me
-- 📧 Email - hopfencg@miamioh.edu
+- 📧 Email - cghopfensperger@gmail.com
 - 🟦 LinkedIn - [linkedin.com/in/clairehopfensperger](https://www.linkedin.com/in/clairehopfensperger/)
 <br>
 
