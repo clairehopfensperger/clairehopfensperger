@@ -45,7 +45,7 @@ Throughout my senior year (2024-2025), I will be working on research with one of
 
 ## 👾 My Projects
 #### 2024
-- [Pinball Machine Display **(🔵 C)**](https://github.com/clairehopfensperger/ECE484_Pinball_Display)
+- [Pinball Machine Display **(🟡 C++)**](https://github.com/clairehopfensperger/ECE484_Pinball_Display)
 - [Tilt Switch Library **(🔵 C)**](https://github.com/clairehopfensperger/ECE484_Tilt_Switch)
 #### 2023
 - [VU Meter Analog Circuit](https://github.com/clairehopfensperger/VU_Meter)
