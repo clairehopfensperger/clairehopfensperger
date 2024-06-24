@@ -6,15 +6,20 @@ This thing show how many views a page gets i think, would need to change
 <h1 align = "center">Welcome to my GitHub!</h1>
 
 ## 🌼 About Me
-I'm Claire, and I'm in my junior year at Miami University majoring in computer engineering and electrical engineering with a minor in computer science. I'm from Brentwood, TN, but I was born in Green Bay, WI, so I always say I went north for college because I missed the cold. May I say, I definitely experience the cold at school and it is nothing like I was used to in Brentwood. 
+I'm Claire, and I'm in my senior year at Miami University majoring in computer engineering and electrical engineering with a minor in computer science. I'm from Brentwood, TN, but I was born in Green Bay, WI, so I like to say I went north for college because I missed the cold. I definitely experience the cold at school and it is nothing like I was used to in Brentwood. 
 <br><br>
-I didn't start coding until my senior year of high school when I took AP Computer Science Principles because I heard it was an easy class to get good credit in and I had space in my schedule. Little did I know that I would have so much passion for coding and eventually study it in college! I learned and became sufficient with Javascript during my first year of coding, but since then I have learned and practiced with many different programming lagunages. My main languages are C++, Verilog, and VHDL. Alongside programming, I also really enjoy physics and the hardware side of technology, so I thought computer engineering was the perfect way to combine all of the different topics I enjoy. I'm very excited to take a multitude of relavent classes through [Miami University's College of Engineering and Computing](https://www.miamioh.edu/cec/) and expand my knowledge.
+I didn't start coding until my senior year of high school when I took AP Computer Science Principles because I heard it was an easy class to get good credit in and I had space in my schedule. Little did I know that I would have so much passion for programming and eventually study it in college! I learned Javascript during my first year of coding, but since then I have learned and worked with many different programming languages. My main languages are C, C++, Verilog, and VHDL. Alongside programming, I also really enjoy physics and the hardware side of technology, so I thought computer engineering was the perfect way to combine all of the different topics I enjoy. I'm very excited to take a multitude of relavent classes through [Miami University's College of Engineering and Computing](https://www.miamioh.edu/cec/) and expand my knowledge.
 <br><br>
-During the summer of 2022, I researched, planned, and built a computer, and this personal project verified my passion for the electrical side of computer engineering, as well. Then, during the winter of 2022, I did the same process to build a keyboard, and this keyboard is the best thing ever (75% FTW). 
+Since I started programming back in 2020, I've acquired a lot of skills and experiences.
 <br><br>
-During the summer of 2023, I worked as an electrical engineer intern at Cryptic Vector, and this internship taught me many new skills and showed me what it was like to work in the contracting engineering industry.
-<br>
-<br>
+During the summer of 2022, I researched, planned, and built a computer, and this personal project verified my passion for the electrical side of computer engineering, as well. Then, during the winter of 2022, I did the same process to build a keyboard, and this keyboard is one of my favorite things (75% FTW). 
+<br><br>
+Throughout the spring semester of my sophomore year (2022-2023), I helped with academic research that explored creating flexible 3D-printed medical devices. I designed and printed test circuit boards on 3D printed elements using Autodesk Fusion 360 and Voltera V-One, and then I morphed the printed elements for quality control assessment.
+<br><br>
+During the summers of 2023 and 2024, I worked as an electrical engineer intern at Cryptic Vector, and these internships taught me many new skills and showed me what it was like to work in the contracting engineering industry.
+<br><br>
+Throughout my senior year (2024-2025), I will be working on research with one of my ECE professors, and this research is sponsored by Ohio Space Grant Consortium and funded by NASA. My research will focus on reliable power conversions for space applications. Also throughout my senior year, I will be working on my senior capstone project which will focus on using virtual twinning to analyze/predict circuit failure.
+<br><br>
 
 ## 🔌 Electrical Engineer Internship at Cryptic Vector
 #### Summer 2023
@@ -24,15 +29,20 @@ During the summer of 2023, I worked as an electrical engineer intern at Cryptic 
 - Skills I practiced:
   - VHDL
   - Vivado
-  - GitLab
+  - Git Version Control
   - ModelSim
+
+#### Summer 2024
+- Skills I practiced:
+  - Research
+  - Git Version Control
+  - C
 <br>
 
 ## 👾 My Projects
 #### 2024
-- [Tilt Switch Library **(🔵 C)**](https://github.com/clairehopfensperger/ECE484_Tilt_Switch)
-- [Pinball Machine **(🔵 C)**](https://github.com/clairehopfensperger/ECE484_Pinball_Machine)
 - [Pinball Machine Display **(🔵 C)**](https://github.com/clairehopfensperger/ECE484_Pinball_Display)
+- [Tilt Switch Library **(🔵 C)**](https://github.com/clairehopfensperger/ECE484_Tilt_Switch)
 #### 2023
 - [VU Meter Analog Circuit](https://github.com/clairehopfensperger/VU_Meter)
 - [RISC-V Architecture **(⚪️ Verilog, ⚫️ Assembly)**](https://github.com/clairehopfensperger/RISC_V_Architecture)
