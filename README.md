@@ -6,12 +6,13 @@ This thing show how many views a page gets i think, would need to change
 <h1 align = "center">Welcome to my GitHub!</h1>
 
 ## 🌼 About Me
-I'm Claire, and I'm in my senior year at Miami University majoring in computer engineering and electrical engineering with a minor in computer science. I'm from Brentwood, TN, but I was born in Green Bay, WI, so I like to say I went north for college because I missed the cold. I definitely experience the cold at school and it is nothing like I was used to in Brentwood. 
+I'm Claire, and I'm in my senior year at [Miami University](https://miamioh.edu/cec/index.html) majoring in computer engineering and electrical engineering with a minor in computer science. I'm from Brentwood, TN, but I was born in Green Bay, WI, so I like to say I went north for college because I missed the cold. I definitely experience the cold at school and it is not what I was used to in Brentwood. 
 <br><br>
-I didn't start coding until my senior year of high school when I took AP Computer Science Principles because I heard it was an easy class to get good credit in and I had space in my schedule. Little did I know that I would have so much passion for programming and eventually study it in college! I learned Javascript during my first year of coding, but since then I have learned and worked with many different programming languages. My main languages are C, C++, Verilog, and VHDL. Alongside programming, I also really enjoy physics and the hardware side of technology, so I thought computer engineering was the perfect way to combine all of the different topics I enjoy. I'm very excited to take a multitude of relavent classes through [Miami University's College of Engineering and Computing](https://www.miamioh.edu/cec/) and expand my knowledge.
+I didn't start coding until my senior year of high school when I took AP Computer Science Principles because I heard it was an easy class to get good credit in and I had space in my schedule. Little did I know that I would have so much passion for programming and eventually study it in college! I learned Javascript during my first year of coding, but since then I have learned and worked with many different programming languages. My main languages are C, C++, Verilog, and VHDL. Alongside programming, I also really enjoy physics and the hardware side of technology, so I thought double-majoring in computer engineering and electrical engineering was the perfect way to combine all of the different topics I enjoy.
 <br><br>
-Since I started programming back in 2020, I've acquired a lot of skills and experiences.
+Since I started programming back in 2020, I've acquired a lot of skills and experiences. Check out my projects below and my [LinkedIn](linkedin.com/in/clairehopfensperger/) for more information about what I've been up to!
 <br><br>
+<!--
 During the summer of 2022, I researched, planned, and built a computer, and this personal project verified my passion for the electrical side of computer engineering, as well. Then, during the winter of 2022, I did the same process to build a keyboard, and this keyboard is one of my favorite things (75% FTW). 
 <br><br>
 Throughout the spring semester of my sophomore year (2022-2023), I helped with academic research that explored creating flexible 3D-printed medical devices. I designed and printed test circuit boards on 3D printed elements using Autodesk Fusion 360 and Voltera V-One, and then I morphed the printed elements for quality control assessment.
@@ -20,7 +21,9 @@ During the summers of 2023 and 2024, I worked as an electrical engineer intern a
 <br><br>
 Throughout my senior year (2024-2025), I will be working on research with one of my ECE professors, and this research is sponsored by Ohio Space Grant Consortium and funded by NASA. My research will focus on reliable power conversions for space applications. Also throughout my senior year, I will be working on my senior capstone project which will focus on using virtual twinning to analyze/predict circuit failure.
 <br><br>
+-->
 
+<!--
 ## 🔌 Electrical Engineer Internship at Cryptic Vector
 #### Summer 2023
 - Implemented new low probability of detection communication waveform in existing VHDL program
@@ -38,6 +41,7 @@ Throughout my senior year (2024-2025), I will be working on research with one of
   - Git Version Control
   - C
 <br>
+-->
 
 ## 👾 My Projects
 #### 2024
