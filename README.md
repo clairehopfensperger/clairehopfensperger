@@ -323,6 +323,15 @@ Throughout my senior year (2024-2025), I will be working on research with one of
   <summary>ECE 484: Embedded Systems Design (🔵 C)</summary>
 
   - Junior Year Spring Semester, 2024
+  - Programmed Arduino UNO R3 boards in C
+  - Embedded Systems Presentations:
+      - Chip/Peripheral Interface - Tilt Switch
+      - Children's Toy - Tamagotchi
+      - Various Embedded System - Vacuum Robot
+  - Individual Project - [Tilt Switch Library](https://github.com/clairehopfensperger/ECE484_Tilt_Switch)
+  - Case Study - [Alarm Clock](https://github.com/Deniz-Misirlioglu/484EmbeddedClock)
+  - Final Group Project - [Pinball Machine](https://github.com/clairehopfensperger/ECE484_Pinball_Machine)
+      - Individual portion - [Pinball Machine Display](https://github.com/clairehopfensperger/ECE484_Pinball_Display)
 </details>
 <br>
 
