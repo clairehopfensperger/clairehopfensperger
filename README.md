@@ -216,6 +216,12 @@ Throughout my senior year (2024-2025), I will be working on research with one of
 </details>
 
 <details>
+  <summary>ECE 301: Circuits II & Renewable Energy</summary>
+
+  - Junior Year Spring Semester, 2024
+</details>
+
+<details>
   <summary>ECE 304: Electronics</summary>
   
   - Junior Year Fall Semester, 2023
@@ -255,6 +261,26 @@ Throughout my senior year (2024-2025), I will be working on research with one of
 - Applied discrete concepts described above to continuous time systems
 - Used Laplace transform to find continuous time step response
 - Found frequency responses of both discrete and continuous time systems
+</details>
+
+<details>
+  <summary>ECE 314: Elements of Robotics (🟡 Arduino)</summary>
+
+  - Junior Year Spring Semester, 2024
+  - ADC, DAC
+  - Sensors
+  - Reactive Behavior
+  - Finite State Machine
+  - Robot Motion and Odometry
+  - Control
+  - Local Navigation: Obstacle Avoidance
+  - Localization
+  - Mapping
+  - Mapping-Based Navigation
+  - Fuzzy Logic
+  - Neural Network
+  - Machine Learning
+  - Final Project: [Maze-Solving Robot](https://github.com/clairehopfensperger/Maze_Solving_Robot)
 </details>
 
 <details>
@@ -302,21 +328,24 @@ Throughout my senior year (2024-2025), I will be working on research with one of
 </details>
 
 <details>
-  <summary>ECE 314: Elements of Robotics</summary>
-
-  - Junior Year Spring Semester, 2024
-</details>
-
-<details>
   <summary>ECE 425: Digital Signal Processing</summary>
 
   - Junior Year Spring Semester, 2024
-</details>
-
-<details>
-  <summary>ECE 301: Circuits II & Renewable Energy</summary>
-
-  - Junior Year Spring Semester, 2024
+  - Discrete-time signal and systems clasification
+  - Sampling theory
+  - Linear Time-Inviariant (LTI) Systems
+  - Convolution
+  - Cross-correlation and auto-correlation
+  - Quantization noise
+  - Derivations of Fourier Series, Continuous-Time Fourier Transform (CTFT), and Discrete-Time Fourier Transform (DTFT)
+  - Convergence of DTFT and Gibb's Phenomenon
+  - Frequency response of LTI system
+  - Window methods for FIR filter design
+  - Analog lowpass, highpass, bandpass, bandstop filder design
+  - Finite length discrete transform
+  - Z-transform
+  - Filter stability
+  - FFT
 </details>
 
 <details>
