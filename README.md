@@ -63,17 +63,36 @@ Throughout my senior year (2024-2025), I will be working on research with one of
 ### CSE Courses
 
 <details>
-  <summary>Fundamentals of Programming (🔴 Java)</summary>
+  <summary>CSE 174: Fundamentals of Programming (🔴 Java)</summary>
   
-- CSE 174; Freshman Year Fall Semester, 2021
+- Freshman Year Fall Semester, 2021
 - Learned the fundamentals of Java programming
 - Practiced problem solving with Java
 </details>
 
 <details>
-  <summary>Object-Oriented Programming (🔴 Java)</summary>
+  <summary>CSE 262: Technology, Ethics, and Global Society</summary>
   
-- CSE 271; Freshman Year Spring Semester, 2022
+  - Junior Year Fall Semester, 2023
+  - 7 theories of the Spectrum of Ethics: Communitarianism, Deontology, Egoism, Ethic of Caring, Existentialism, Utilitarianism, Virtue Ethics
+  - Digital privacy
+  - European Union's GDPR
+  - Risk management
+  - Ethical hacking
+  - Accessible technology and disability services
+  - Social media moderation: Seciton 230, EU DSA
+  - Boeing 737 Max Incidents
+  - Therac-25 Incidents
+  - Doomscrolling
+  - Search engines/ChatGPT
+  - EU DMA
+  - Tech ethics of the future
+</details>
+
+<details>
+  <summary>CSE 271: Object-Oriented Programming (🔴 Java)</summary>
+  
+- Freshman Year Spring Semester, 2022
 - Learned the four key principles of Object-Oriented Programming: Encapsulation, Abstraction, Inheritance, and Polymorphism
 - Focused more on learning more functionality of Java than problem solving
 - Practiced making classes, understanding UML notation, inplementing inheritance and polymorphism
@@ -83,17 +102,17 @@ Throughout my senior year (2024-2025), I will be working on research with one of
 </details>
 
 <details>
-  <summary>Data Abstraction and Data Structures (🔴 Java)</summary>
+  <summary>CSE 274: Data Abstraction and Data Structures (🔴 Java)</summary>
   
-- CSE 274; Sophomore Year Fall Semester, 2022
+- Sophomore Year Fall Semester, 2022
 - Learn about and practice different data structures
 - Linked Lists, Doubly Linked Lists, Stacks, Queues, Hash Tables, Hash Maps, Priority Queues, Trees and Binary Trees
 </details>
 
 <details>
-  <summary>Systems I (🟡 C++)</summary>
+  <summary>CSE 278: Systems I (🟡 C++)</summary>
  
-- CSE 278; Sophomore Year Spring Semester, 2023
+- Sophomore Year Spring Semester, 2023
 - Used Linux commands in terminal/command prompt
 - C++ programming
 - Functions 
@@ -119,9 +138,9 @@ Throughout my senior year (2024-2025), I will be working on research with one of
 </details>
 
 <details>
-  <summary>Systems II (🟡 C++)</summary>
+  <summary>CSE 381: Systems II (🟡 C++)</summary>
   
-  - CSE 381; Junior Year Fall Semester, 2023
+  - Junior Year Fall Semester, 2023
   - Virtualization and hypervisors
   - Cloud computing and types of clouds
   - C++ review
@@ -139,31 +158,12 @@ Throughout my senior year (2024-2025), I will be working on research with one of
   - Great programming practices/skills
 </details>
 
-<details>
-  <summary>Technology, Ethics, and Global Society</summary>
-  
-  - CSE 262; Junior Year Fall Semester, 2023
-  - 7 theories of the Spectrum of Ethics: Communitarianism, Deontology, Egoism, Ethic of Caring, Existentialism, Utilitarianism, Virtue Ethics
-  - Digital privacy
-  - European Union's GDPR
-  - Risk management
-  - Ethical hacking
-  - Accessible technology and disability services
-  - Social media moderation: Seciton 230, EU DSA
-  - Boeing 737 Max Incidents
-  - Therac-25 Incidents
-  - Doomscrolling
-  - Search engines/ChatGPT
-  - EU DMA
-  - Tech ethics of the future
-</details>
-
 ### ECE Courses
 
 <details>
-  <summary>Intro to Electrical and Computer Engineering (🔵 C, 🟢 HTML, 🟣 CSS)</summary>
+  <summary>ECE 102: Intro to Electrical and Computer Engineering (🔵 C, 🟢 HTML, 🟣 CSS)</summary>
   
-- ECE 102; Freshman Year Spring Semester, 2022
+- Freshman Year Spring Semester, 2022
 - Introduced and practiced navigating Linux terminal and directories and editing files within terminal
 - Practiced coding with C
 - Created simple webpages with HTML and CSS
@@ -174,9 +174,9 @@ Throughout my senior year (2024-2025), I will be working on research with one of
 </details>
 
 <details>
-  <summary>Electric Circuit Analysis</summary>
+  <summary>ECE 205: Electric Circuit Analysis</summary>
   
-- ECE 205; Sophomore Year Fall Semester, 2022
+- Sophomore Year Fall Semester, 2022
 - Learned the basics of circuits
 - Ohm's Law
 - Kirchoff's Circuit Law, Kirchoff's Voltage Law
@@ -191,9 +191,9 @@ Throughout my senior year (2024-2025), I will be working on research with one of
 </details>
 
 <details>
-  <summary>Digital Systems Design (⚪️ Verilog)</summary>
+  <summary>ECE 287: Digital Systems Design (⚪️ Verilog)</summary>
   
-- ECE 287; Sophomore Year Fall Semester, 2022
+- Sophomore Year Fall Semester, 2022
 - Used Quartus and Verilog as our Hardware Description Language to work with an FPGA board
 - Transistors, logic gates, schematics
 - Combinational Logic
@@ -206,9 +206,9 @@ Throughout my senior year (2024-2025), I will be working on research with one of
 </details>
 
 <details>
-  <summary>Computer Organization (⚫️ Assembly)</summary>
+  <summary>ECE 289: Computer Organization (⚫️ Assembly)</summary>
   
-- ECE 289; Sophomore Year Spring Semester, 2023
+- Sophomore Year Spring Semester, 2023
 - Assembly with MIPs using MARs
 - Understood computer architecture
 - Optimization using compiler pipelining, and cache optimizations
@@ -216,9 +216,30 @@ Throughout my senior year (2024-2025), I will be working on research with one of
 </details>
 
 <details>
-  <summary>Signals and Systems</summary>
+  <summary>ECE 304: Electronics</summary>
   
-- ECE 306; Sophomore Year Spring Semester, 2023
+  - Junior Year Fall Semester, 2023
+  - General circuit analysis review
+  - Characteristics of ideal opamp
+  - Analyzing and solving non-inverting and inverting opamp circuit problems
+  - Applications of phasors in circuits
+  - Solving for and using transfer functions and corner frequencies
+  - Low-pass, high-pass, and band-pass filters
+  - Analyzing and solving amplifier circuit problems
+  - Gain: power, voltage, and current
+  - Bode plots
+  - Diodes: solving and applications
+  - Bipolar Junction Transistors (BJTs): NPN and PNP
+  - Large and small signal model analysis of NPN BJT circuits
+  - MOSFETs
+  - Large and small signal model analysis of MOSFET circuits
+  - Final Project: [VU Meter Analog Circuit](https://github.com/clairehopfensperger/VU_Meter)
+</details>
+
+<details>
+  <summary>ECE 306: Signals and Systems</summary>
+  
+- Sophomore Year Spring Semester, 2023
 - Signal classification and operations
 - Reviewed common signals (step, impulse, complex exponential)
 - Fourier analysis
@@ -237,31 +258,27 @@ Throughout my senior year (2024-2025), I will be working on research with one of
 </details>
 
 <details>
-  <summary>Electronics</summary>
+  <summary>ECE 325: Applied Electromagnetics</summary>
   
-  - ECE 304; Junior Year Fall Semester, 2023
-  - General circuit analysis review
-  - Characteristics of ideal opamp
-  - Analyzing and solving non-inverting and inverting opamp circuit problems
-  - Applications of phasors in circuits
-  - Solving for and using transfer functions and corner frequencies
-  - Low-pass, high-pass, and band-pass filters
-  - Analyzing and solving amplifier circuit problems
-  - Gain: power, voltage, and current
-  - Bode plots
-  - Diodes: solving and applications
-  - Bipolar Junction Transistors (BJTs): NPN and PNP
-  - Large and small signal model analysis of NPN BJT circuits
-  - MOSFETs
-  - Large and small signal model analysis of MOSFET circuits
-  - Final Project: [VU Meter Analog Circuit](https://github.com/clairehopfensperger/VU_Meter)
+  - Junior Year Fall Semester, 2023
+  - HFSS modeling and simulation using ANSYS
+  - RLC model of coaxial cable
+  - Telgrapher Equations
+  - Characteristic impedance
+  - Reflection coefficient
+  - VSWR
+  - Lattice Diagrams
+  - Max power transfer and efficiency
+  - Crosstalk and jitter
+  - Smith Chart
+  - Maxwell's equations overview
+  - Lab, individual project, and final project reports
 </details>
 
-
 <details>
-  <summary>Applied Probability and Statistics for Engineers</summary>
+  <summary>ECE 345: Applied Probability and Statistics for Engineers</summary>
   
-  - ECE 345; Junior Year Fall Semester, 2023
+  - Junior Year Fall Semester, 2023
   - Set operations
   - Conditional probability, total probability
   - Bayes' Rule
@@ -285,57 +302,34 @@ Throughout my senior year (2024-2025), I will be working on research with one of
 </details>
 
 <details>
-  <summary>Applied Electromagnetics</summary>
-  
-  - ECE 325; Junior Year Fall Semester, 2023
-  - HFSS modeling and simulation using ANSYS
-  - RLC model of coaxial cable
-  - Telgrapher Equations
-  - Characteristic impedance
-  - Reflection coefficient
-  - VSWR
-  - Lattice Diagrams
-  - Max power transfer and efficiency
-  - Crosstalk and jitter
-  - Smith Chart
-  - Maxwell's equations overview
-  - Lab, individual project, and final project reports
+  <summary>ECE 314: Elements of Robotics</summary>
+
+  - Junior Year Spring Semester, 2024
+</details>
+
+<details>
+  <summary>ECE 425: Digital Signal Processing</summary>
+
+  - Junior Year Spring Semester, 2024
+</details>
+
+<details>
+  <summary>ECE 301: Circuits II & Renewable Energy</summary>
+
+  - Junior Year Spring Semester, 2024
+</details>
+
+<details>
+  <summary>ECE 484: Embedded Systems Design (🔵 C)</summary>
+
+  - Junior Year Spring Semester, 2024
 </details>
 <br>
 
 ## ✏️ Courses I'm Currently Taking
 *Click on the classes for more information!*
 
-<details>
-  <summary>Elements of Robotics</summary>
 
-  - ECE 314; Junior Year Spring Semester, 2024
-</details>
-
-<details>
-  <summary>Digital Signal Processing</summary>
-
-  - ECE 425; Junior Year Spring Semester, 2024
-</details>
-
-<details>
-  <summary>Circuits II & Renewable Energy</summary>
-
-  - ECE 301; Junior Year Spring Semester, 2024
-</details>
-
-<details>
-  <summary>Embedded Systems Design (🔵 C)</summary>
-
-  - ECE 484; Junior Year Spring Semester, 2024
-</details>
-
-<details>
-  <summary>World History Since 1500</summary>
-
-  - HST 198; Junior Year Spring Semester, 2024
-  - Global Perspective Requirement
-</details>
 <br>
 
 ## 📚 Courses I'm Taking Next Semester
@@ -394,6 +388,14 @@ Throughout my senior year (2024-2025), I will be working on research with one of
 
 <details>
   <summary>Introduction to Women's, Gender, and Sexuality Studies</summary>
+</details>
+
+
+<details>
+  <summary>World History Since 1500</summary>
+
+  - HST 198; Junior Year Spring Semester, 2024
+  - Global Perspective Requirement
 </details>
 <br>
 
