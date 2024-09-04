@@ -368,6 +368,36 @@ Throughout my senior year (2024-2025), I will be working on research with one of
 ## ✏️ Courses I'm Currently Taking
 *Click on the classes for more information!*
 
+<details>
+  <summary>ECE 388: Smartphone Technologies</summary>
+
+  - Senior Year Fall Semester, 2024
+</details>
+
+<details>
+  <summary>ECE 436: Control of Dynamic Systems</summary>
+
+  - Senior Year Fall Semester, 2024
+</details>
+
+<details>
+  <summary>ECE 448: Senior Design</summary>
+
+  - Senior Year Fall Semester, 2024
+</details>
+
+<details>
+  <summary>ECE 453: Communication Systems</summary>
+
+  - Senior Year Fall Semester, 2024
+</details>
+
+<details>
+  <summary>ECE 529: Digital Image Processing</summary>
+
+  - Senior Year Fall Semester, 2024
+  - Graduate level course
+</details>
 
 <br>
 
