@@ -399,14 +399,19 @@ Throughout my senior year (2024-2025), I will be working on research with one of
   - Graduate level course
 </details>
 
+<details>
+  <summary>ART 165: Beginning Metals</summary>
+
+  - Senior Year Fall Semester, 2024
+</details>
+
 <br>
 
 ## 📚 Courses I'm Taking Next Semester
 - Senior Design
-- Intro to Smartphone Technologies
-- Digital Image Processing
-- Communication Systems
-- Control of Dynamic Systems
+- Network Performance Analysis
+- EM in Wireless Sensing & Communications
+- Beginning Ceramics!
 <br>
 
 ## 🔗 How to Reach Me
