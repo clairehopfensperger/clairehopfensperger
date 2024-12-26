@@ -329,6 +329,25 @@ Throughout my senior year (2024-2025), I will be working on research with one of
 </details>
 
 <details>
+  <summary>ECE 388: Smartphone Technologies</summary>
+
+  - Senior Year Fall Semester, 2024
+  - Transmission Fundamentals: Noise, SNR, Capacity, dBs, Data Rate
+  - Frequency Domain and Carrier Frequencies
+  - Multiplexing and Communication Networks
+  - QoS and TCP/IP
+  - Antennas
+  - Propogation and Noise
+  - Multipath and Corrections
+  - Spread Spectrum, MIMO, Analog Modulation
+  - Analog Modulation
+  - Encoding
+  - Digital Modulation
+  - RFID
+  - Error Detection and Correction
+</details>
+
+<details>
   <summary>ECE 425: Digital Signal Processing</summary>
 
   - Junior Year Spring Semester, 2024
@@ -350,6 +369,57 @@ Throughout my senior year (2024-2025), I will be working on research with one of
 </details>
 
 <details>
+  <summary>ECE 429: Digital Image Processing</summary>
+
+  - Senior Year Fall Semester, 2024
+  - Intensity Transformation
+  - Histograms
+  - Spatial Filtering
+  - 2D Fourier Transform
+  - Frequency Domain Filtering
+  - Noise and Image Degradation
+  - Image Restoration
+  - Inverse, Wiener, and Other Filtering
+  - Color Image
+  - Convolutional Neural Network
+  - Computer Tomography
+  - Image Compression
+</details>
+
+<details>
+  <summary>ECE 436: Control of Dynamic Systems</summary>
+
+  - Senior Year Fall Semester, 2024
+  - Mathematical Modeling
+  - Transient Response
+  - Block Diagram Reduction
+  - Stability Analysis
+  - Root Locus Analysis and Design
+  - Steady-State Error
+  - Controller Design
+  - P, PD, PI, PID Control
+</details>
+
+<details>
+  <summary>ECE 453: Communication Systems</summary>
+
+  - Senior Year Fall Semester, 2024
+  - Signal Types and Fourier Series
+  - Fourier Series
+  - LTI Systems
+  - Sampling
+  - DFT and FFT
+  - DSB, AM, SSB
+  - Frequency Translation and Mixing
+  - Pulse Modulation and TDMA
+  - PM and FM Modulation
+  - Angle Demodulation
+  - BPSK, QPSK, 8PSK
+  - QAM and Power Spectra
+  - Power Shaping
+</details>
+
+<details>
   <summary>ECE 484: Embedded Systems Design (🔵 C)</summary>
 
   - Junior Year Spring Semester, 2024
@@ -363,47 +433,34 @@ Throughout my senior year (2024-2025), I will be working on research with one of
   - Final Group Project - [Pinball Machine](https://github.com/clairehopfensperger/ECE484_Pinball_Machine)
       - Individual portion - [Pinball Machine Display](https://github.com/clairehopfensperger/ECE484_Pinball_Display)
 </details>
-<br>
-
-## ✏️ Courses I'm Currently Taking
-*Click on the classes for more information!*
-
-<details>
-  <summary>ECE 388: Smartphone Technologies</summary>
-
-  - Senior Year Fall Semester, 2024
-</details>
-
-<details>
-  <summary>ECE 436: Control of Dynamic Systems</summary>
-
-  - Senior Year Fall Semester, 2024
-</details>
 
 <details>
   <summary>ECE 448: Senior Design</summary>
 
   - Senior Year Fall Semester, 2024
+  - [Virtual Twinning for Circuit Failure](https://github.com/clairehopfensperger/Virtual_Twin_for_Circuit_Failure)
 </details>
 
-<details>
-  <summary>ECE 453: Communication Systems</summary>
-
-  - Senior Year Fall Semester, 2024
-</details>
-
-<details>
-  <summary>ECE 529: Digital Image Processing</summary>
-
-  - Senior Year Fall Semester, 2024
-  - Graduate level course
-</details>
-
+### My Favorite Non-Engineering Courses
 <details>
   <summary>ART 165: Beginning Metals</summary>
 
   - Senior Year Fall Semester, 2024
+  - Using Metalworking Tools
+  - Sweat Soldering
+  - Acid Etching
+  - Stamping
+  - Two Main Projects:
+    - Layered metal piece with cutouts
+    - Ring
 </details>
+
+<br>
+
+## ✏️ Courses I'm Currently Taking
+<!-- *Click on the classes for more information!* -->
+
+None! It's winter break B)
 
 <br>
 
@@ -411,7 +468,9 @@ Throughout my senior year (2024-2025), I will be working on research with one of
 - Senior Design
 - Network Performance Analysis
 - EM in Wireless Sensing & Communications
+- Ancient Cities and Civilizations
 - Beginning Ceramics!
+- Beginning Woodworking!
 <br>
 
 ## 🔗 How to Reach Me
