@@ -45,6 +45,7 @@ Throughout my senior year (2024-2025), I will be working on research with one of
 
 ## 👾 My Projects
 #### 2024
+- [BER Plot of BCH Coded/Uncoded 8PSK **(🟢 MATLAB)**](https://github.com/clairehopfensperger/ECE388_QPSK_BCH_BER)
 - [Pinball Machine Display **(🟡 Arduino)**](https://github.com/clairehopfensperger/ECE484_Pinball_Display)
 - [Maze-Solving Robot **(🟡 Arduino)**](https://github.com/clairehopfensperger/Maze_Solving_Robot)
 - [Tilt Switch Library **(🔵 C)**](https://github.com/clairehopfensperger/ECE484_Tilt_Switch)
@@ -162,7 +163,7 @@ Throughout my senior year (2024-2025), I will be working on research with one of
 ### ECE Courses
 
 <details>
-  <summary>ECE 102: Intro to Electrical and Computer Engineering (🔵 C, 🟢 HTML, 🟣 CSS)</summary>
+  <summary>ECE 102: Intro to Electrical and Computer Engineering (🔵 C, 🟢 MATLAB, 🟣 HTML/CSS)</summary>
   
 - Freshman Year Spring Semester, 2022
 - Introduced and practiced navigating Linux terminal and directories and editing files within terminal
@@ -329,7 +330,7 @@ Throughout my senior year (2024-2025), I will be working on research with one of
 </details>
 
 <details>
-  <summary>ECE 388: Smartphone Technologies</summary>
+  <summary>ECE 388: Smartphone Technologies (🟢 MATLAB)</summary>
 
   - Senior Year Fall Semester, 2024
   - Transmission Fundamentals: Noise, SNR, Capacity, dBs, Data Rate
@@ -348,7 +349,7 @@ Throughout my senior year (2024-2025), I will be working on research with one of
 </details>
 
 <details>
-  <summary>ECE 425: Digital Signal Processing</summary>
+  <summary>ECE 425: Digital Signal Processing (🟢 MATLAB)</summary>
 
   - Junior Year Spring Semester, 2024
   - Discrete-time signal and systems clasification
@@ -369,7 +370,7 @@ Throughout my senior year (2024-2025), I will be working on research with one of
 </details>
 
 <details>
-  <summary>ECE 429: Digital Image Processing</summary>
+  <summary>ECE 429: Digital Image Processing (🟢 MATLAB)</summary>
 
   - Senior Year Fall Semester, 2024
   - Intensity Transformation
@@ -387,7 +388,7 @@ Throughout my senior year (2024-2025), I will be working on research with one of
 </details>
 
 <details>
-  <summary>ECE 436: Control of Dynamic Systems</summary>
+  <summary>ECE 436: Control of Dynamic Systems (🟢 MATLAB Simulink)</summary>
 
   - Senior Year Fall Semester, 2024
   - Mathematical Modeling
@@ -401,7 +402,7 @@ Throughout my senior year (2024-2025), I will be working on research with one of
 </details>
 
 <details>
-  <summary>ECE 453: Communication Systems</summary>
+  <summary>ECE 453: Communication Systems (🟢 MATLAB)</summary>
 
   - Senior Year Fall Semester, 2024
   - Signal Types and Fourier Series
