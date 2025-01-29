@@ -461,17 +461,34 @@ Throughout my senior year (2024-2025), I will be working on research with one of
 ## ✏️ Courses I'm Currently Taking
 <!-- *Click on the classes for more information!* -->
 
-None! It's winter break B)
+<details>
+  <summary>ECE 449: Senior Design</summary>
+</details>
+
+<details>
+  <summary>ECE 461: Network Performance Analysis</summary>
+</details>
+
+<details>
+  <summary>ECE 430: EM in Wireless Sensing & Communications</summary>
+</details>
+
+<details>
+  <summary>ATH 145: Ancient Cities and Civilizations</summary>
+</details>
+
+<details>
+  <summary>ART 160: Beginning Ceramics</summary>
+</details>
+
+<details>
+  <summary>ART 170: Beginning Woodworking</summary>
+</details>
 
 <br>
 
 ## 📚 Courses I'm Taking Next Semester
-- Senior Design
-- Network Performance Analysis
-- EM in Wireless Sensing & Communications
-- Ancient Cities and Civilizations
-- Beginning Ceramics!
-- Beginning Woodworking!
+None! I graduate in May B)
 <br>
 
 ## 🔗 How to Reach Me
