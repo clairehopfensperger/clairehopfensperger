@@ -44,6 +44,8 @@ Throughout my senior year (2024-2025), I will be working on research with one of
 -->
 
 ## 👾 My Projects
+#### 2025
+- [OSGC Research: "Reliable Power Conversion for Space Applications"](https://github.com/clairehopfensperger/OSGC_Research_Virtual_Twinning)
 #### 2024
 - [BER Plot of BCH Coded/Uncoded 8PSK **(🟢 MATLAB)**](https://github.com/clairehopfensperger/ECE388_QPSK_BCH_BER)
 - [Pinball Machine Display **(🟡 Arduino)**](https://github.com/clairehopfensperger/ECE484_Pinball_Display)
